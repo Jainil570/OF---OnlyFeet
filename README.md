@@ -10,9 +10,10 @@ An advanced computer vision system for real-time person counting on escalators u
 - Uses **YOLOv8 Nano** for fast and efficient object detection
 - Tracks individuals using the **SORT** algorithm
 - Displays bounding boxes and ID labels for each tracked person
+
 ![WhatsApp Image 2025-07-08 at 01 14 22_b156cfbe](https://github.com/user-attachments/assets/966da389-2a18-4862-af90-7aaf1bdfdb3d)
 
-- Applies **zone-based detection** to focus only on escalator region
+- Applies **zone-based detection** to focus only on specific escalator region for accurate count.
 
 ![WhatsApp Image 2025-07-08 at 01 16 11_f39ab699](https://github.com/user-attachments/assets/0fdacd43-95f0-433c-8bc3-a53ee2319c7c)
 
